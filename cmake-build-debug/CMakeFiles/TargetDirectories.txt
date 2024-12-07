@@ -1,0 +1,3 @@
+/home/finn/Dokumente/Programmieren/CLionProjects/AoC2024/cmake-build-debug/CMakeFiles/AoC2024.dir
+/home/finn/Dokumente/Programmieren/CLionProjects/AoC2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/finn/Dokumente/Programmieren/CLionProjects/AoC2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
